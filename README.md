@@ -134,6 +134,8 @@ For queries or collaborations, feel free to connect:
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+
 --- 
 
 Feel free to reach out for collaboration or questions!
