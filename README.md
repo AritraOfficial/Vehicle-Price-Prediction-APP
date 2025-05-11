@@ -10,6 +10,12 @@ In the growing market of used and new vehicles, accurate pricing is crucial for 
 
 ---
 
+## 📸 App View 
+| Web View                          | Another Features                 |
+| --------------------------------- | -------------------------------- | 
+![image](https://github.com/user-attachments/assets/635f8864-e9b2-4a98-81fe-809c39eb2fa3)|![image](https://github.com/user-attachments/assets/8cff8d3b-02dd-4b06-9c8c-84b8880f530b)|
+
+---
 ## 🎯 Project Goal
 
 - Predict vehicle prices using a deep learning model.
@@ -91,7 +97,7 @@ This model shows promising results in vehicle price prediction. Future improveme
 
 * Feature engineering
 * Handling outliers
-* Comparing with tree-based models like XGBoost or LightGBM
+* Compared with tree-based models like XGBoost or LightGBM
 
 ---
 
@@ -103,7 +109,33 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Aritra Mukherjee**
+## 👨‍💻 Author
+For queries or collaborations, feel free to connect:  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aritramukherjeeofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/AritraMofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/aritramukherjee_official/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://leetcode.com/u/aritram_official/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://github.com/AritraOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:aritra.work.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+--- 
+
 Feel free to reach out for collaboration or questions!
 
 
