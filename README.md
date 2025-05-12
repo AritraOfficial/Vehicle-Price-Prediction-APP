@@ -108,8 +108,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-
-## 👨‍💻 Author
 For queries or collaborations, feel free to connect:  
 <p align="center">
   <a href="https://www.linkedin.com/in/aritramukherjeeofficial/" target="_blank">
